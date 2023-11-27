@@ -30,15 +30,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/accounts": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/accounts.js"
-    ],
     "/buysell": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/buysell.js"
+    ],
+    "/otp1": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/otp1.js"
+    ],
+    "/otp2": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/otp2.js"
     ],
     "/signin": [
       "static/chunks/webpack.js",

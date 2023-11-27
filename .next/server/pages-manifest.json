@@ -2,8 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/accounts": "pages/accounts.js",
+  "/otp1": "pages/otp1.js",
   "/signin": "pages/signin.js",
+  "/": "pages/index.js",
+  "/otp2": "pages/otp2.js",
   "/buysell": "pages/buysell.js"
 }
